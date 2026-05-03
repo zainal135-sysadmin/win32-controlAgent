@@ -14,7 +14,7 @@ Windows processes through an intelligent command-based system.
 - Win32 API
 
 ## Project Status
-🚧 Active Development | work stage
+🚧 Active Development | development stage
 
 ## Notes
 This project is part of a personal exploration into AI-driven automation 
