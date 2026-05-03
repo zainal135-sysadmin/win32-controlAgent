@@ -19,3 +19,6 @@ Windows processes through an intelligent command-based system.
 ## Notes
 This project is part of a personal exploration into AI-driven automation 
 and Windows system control.
+
+## Flow Logic
+<img src="agent_automation_5.png" widht=300>
