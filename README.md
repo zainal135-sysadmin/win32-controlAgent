@@ -21,4 +21,4 @@ This project is part of a personal exploration into AI-driven automation
 and Windows system control.
 
 ## Flow Logic
-<img src="agent_automation_5.png" widht=300>
+<img src="agent_automation_5_.png" widht=300>
